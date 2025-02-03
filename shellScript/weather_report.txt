@@ -1,0 +1,7 @@
+SUNDAY|10|very_cold
+MONDAY|16|cold
+WEDNESDAY|15|cold
+TUESDAY|25|hot
+THURSDAY|35|very_hot
+FRIDAY|40|very_hot
+SATURDAY|39|very_hot

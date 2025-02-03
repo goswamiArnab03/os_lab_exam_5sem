@@ -1,0 +1,8 @@
+101|Alice|85
+111|tuku|87
+110|chaki|89
+109|taki|91
+102|Bob|92
+107|abhas|92
+104|Diana|95
+103|Arka|96

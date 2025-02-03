@@ -1,0 +1,22 @@
+No of files: 20
+file lists
+/home/arnab/shellscript/Exam/as3a.sh~
+/home/arnab/shellscript/Exam/input_palindrom_word.txt~
+/home/arnab/shellscript/Exam/as12a.sh~
+/home/arnab/shellscript/Exam/as9a.sh
+/home/arnab/shellscript/Exam/as1a.sh~
+/home/arnab/shellscript/Exam/as4a.sh
+/home/arnab/shellscript/Exam/as7a.sh
+/home/arnab/shellscript/Exam/as3a.sh
+/home/arnab/shellscript/Exam/as12a.sh
+/home/arnab/shellscript/Exam/file_names_output.txt
+/home/arnab/shellscript/Exam/as5a.sh
+/home/arnab/shellscript/Exam/as4a.sh~
+/home/arnab/shellscript/Exam/as9a.sh~
+/home/arnab/shellscript/Exam/as5a.sh~
+/home/arnab/shellscript/Exam/as6a.sh~
+/home/arnab/shellscript/Exam/as1a.sh
+/home/arnab/shellscript/Exam/as6a.sh
+/home/arnab/shellscript/Exam/fibo_output.txt
+/home/arnab/shellscript/Exam/as7a.sh~
+/home/arnab/shellscript/Exam/input_palindrom_word.txt
